@@ -22,7 +22,7 @@ https://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/repl.html#webrep
 http://micropython-on-wemos-d1-mini.readthedocs.io/en/latest/basics.html#uploading-files
 
 ###Running:
-Go to: https://192.168.4.1
+Go to: http://192.168.4.1
 
 ###Help in general can be found here:
 http://micropython-on-wemos-d1-mini.readthedocs.io/en/latest/index.html
