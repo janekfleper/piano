@@ -26,6 +26,6 @@ Go to: http://192.168.4.1
 
 To get piano working connect beeper like described [here](http://micropython-on-wemos-d1-mini.readthedocs.io/en/latest/basics.html#beepers).
 
-###Help in general can be found here:
+###Help and general information can be found here:
 http://micropython-on-wemos-d1-mini.readthedocs.io/en/latest/index.html
 https://docs.micropython.org/en/latest/esp8266/index.html
