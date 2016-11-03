@@ -13,7 +13,7 @@ More information is available [here](https://docs.micropython.org/en/latest/esp8
 ###Setup the software:
 
 - Connect the board to the same network your computer is connected to:
-https://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/intro.html#wifi
+https://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/network_basics.html
 
 - Connect to the board via webrepl (minimum once):
 https://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/repl.html#webrepl-a-prompt-over-wifi
@@ -22,7 +22,8 @@ https://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/repl.html#webrep
 http://micropython-on-wemos-d1-mini.readthedocs.io/en/latest/basics.html#uploading-files
 
 ###Running:
-Go to: http://192.168.4.1
+If the board is configured as an AP (access point) go to: http://192.168.4.1
+If the board is connected to your network get the boards ip address from your router or directly from the board using [ifconfig()](http://micropython-on-wemos-d1-mini.readthedocs.io/en/latest/basics.html#network).
 
 To get piano working connect beeper like described [here](http://micropython-on-wemos-d1-mini.readthedocs.io/en/latest/basics.html#beepers).
 
